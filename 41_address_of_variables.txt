@@ -1,0 +1,21 @@
+
+Section 05: Address of Variables
+---------------------------------------------------------------------
+
+	Write a program to print the address of variables
+
+		int myData;
+
+	&myData --> gives you memory location address of 
+	myData variable
+
+	%p --> formate specifier to print a memory address
+	(aka a pointer)
+
+	The pointer (memory location address) size is compiler
+	and hardware specific. Later when we explore the ARM
+	Cortex Mx based STM32 Microcontroller, you will se that
+	the pointer size is of 4 bytes
+
+
+

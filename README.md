@@ -12,6 +12,8 @@ Please feel free to reach out to me at john2285@stthomas.edu
 if you have any questions or comments. In addition, feel free
 to utilize the source code for your consumption and edification.
 
+~ Matt
+
 Technical Notes and Considerations
 -----------------------------------------------------------------
 
